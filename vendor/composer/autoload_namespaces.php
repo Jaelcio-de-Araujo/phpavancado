@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Seach' => array($baseDir . '/src'),
+    'Search' => array($baseDir . '/src'),
 );
