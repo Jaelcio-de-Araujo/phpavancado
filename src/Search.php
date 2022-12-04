@@ -1,7 +1,5 @@
 <?php
 
-namespace jdev\digitalcep;
-
 class  Search
 {
     private  $url = "https://viacep.com.br/ws/";
