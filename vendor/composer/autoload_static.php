@@ -26,7 +26,7 @@ class ComposerStaticInit64ea76be07206f39fa8ca2c3b4170c06
         ),
         'J' => 
         array (
-            'Jdev\\DigitalCep\\' => 16,
+            'Jdev\\digitalcep\\' => 16,
         ),
         'D' => 
         array (
@@ -50,7 +50,7 @@ class ComposerStaticInit64ea76be07206f39fa8ca2c3b4170c06
         array (
             0 => __DIR__ . '/..' . '/phpspec/prophecy/src/Prophecy',
         ),
-        'Jdev\\DigitalCep\\' => 
+        'Jdev\\digitalcep\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
