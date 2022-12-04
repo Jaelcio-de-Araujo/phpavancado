@@ -1,4 +1,5 @@
 <?php
+
 namespace jdev\digitalcep;
 
 class  Search
